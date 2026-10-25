@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "version_name": "2.8",
-  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-9/YammboTvHome.apk",
-  "size": 512635,
-  "sha256": "596b7f8e37c7b67cbb258a955c4acfe2122a41bafb7db22081d2321ada01ea5d",
-  "notes": "La pantalla de inicio ahora se actualiza sola."
+  "build": 10,
+  "version_name": "2.9",
+  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-10/YammboTvHome.apk",
+  "size": 515367,
+  "sha256": "a54f165bb36068ab43ff6248d099fdbabf7c3c8b51bacfccf196998fdd1c7000",
+  "notes": "Todas las aplicaciones en una sola fila que se desplaza hacia los lados."
 }
