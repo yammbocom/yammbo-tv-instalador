@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "version_name": "2.10",
-  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-11/YammboTvHome.apk",
-  "size": 491855,
-  "sha256": "864acd6abbb8cef3d676930d41bb759737c0117e89cd4344f5c395e6638c9e25",
-  "notes": "Nuevo aspecto Yammbo Tv y filas de YouTube (SmartTube)."
+  "build": 12,
+  "version_name": "2.11",
+  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-12/YammboTvHome.apk",
+  "size": 497447,
+  "sha256": "8f2bf8c7956724af03a7d566347731f2fe1a50aaa5001d6c9770e8f737ed1356",
+  "notes": "Nuevo diseño con iconos de colores, filas más grandes y movimiento más suave."
 }
