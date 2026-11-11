@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "version_name": "2.9",
-  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-10/YammboTvHome.apk",
-  "size": 515367,
-  "sha256": "a54f165bb36068ab43ff6248d099fdbabf7c3c8b51bacfccf196998fdd1c7000",
-  "notes": "Todas las aplicaciones en una sola fila que se desplaza hacia los lados."
+  "build": 11,
+  "version_name": "2.10",
+  "url": "https://github.com/yammbocom/yammbo-tv-instalador/releases/download/home-11/YammboTvHome.apk",
+  "size": 491855,
+  "sha256": "864acd6abbb8cef3d676930d41bb759737c0117e89cd4344f5c395e6638c9e25",
+  "notes": "Nuevo aspecto Yammbo Tv y filas de YouTube (SmartTube)."
 }
